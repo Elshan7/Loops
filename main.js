@@ -11,6 +11,7 @@
 
 
 
+
 //2
 
 // for ( let i = 5; i >= 1; i-- ) {
@@ -21,6 +22,7 @@
 
 //     document.write("<br/>");
 // }
+
 
 
 
@@ -51,11 +53,9 @@
 
 
 
-
 // function divide (a,b) {
 
-//     console.log ("a" + " /" + " b" + " =" + a / b);
-
+//  console.log ("a" + " /" + " b" + " =" + a / b);
 // }
 
 // divide (10,5);
@@ -65,21 +65,28 @@
 
 //4
 
-// let num = 5;
-// let fact = 1;
 
-// for ( let i = num ; i >=1; i--) {
-//     fact = fact * i;
+
+// function factorial() {
+
+//     let num = 5;
+//     let fact = 1;
+
+//     for (let i = num; i >= 1; i--) {
+//         fact = fact * i;
+//     }
+
+//     console.log(fact);
+
 // }
 
-// console.log(fact);
+// factorial();
 
 
 
 //5
 
 // let array= [10,1,2,3,8,9,99,77,44,5];
-
 // let max = array[0];
 
 
