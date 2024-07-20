@@ -45,11 +45,10 @@
 
 
 // function multiple (a,b) {
-//     return a * b;
+//     return (a * b);
 // }
 
-// let result3 = multiple (3,5);
-// console.log (result3);
+// console.log (multiple (3,4));
 
 
 
